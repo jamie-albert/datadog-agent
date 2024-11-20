@@ -283,7 +283,7 @@ datadog-coredns==3.2.3
 datadog-disk==5.4.0
 datadog-ibm-was==3.3.2
 datadog-couch==6.2.1
-snowflake-connector-python==3.12.1
+snowflake-connector-python==3.12.3
 python-dateutil==2.9.0.post0
 asn1crypto==1.5.1
 datadog-checkpoint-quantum-firewall==1.0.0
